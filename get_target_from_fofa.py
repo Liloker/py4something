@@ -23,8 +23,8 @@ def do_request(query):
 
     # 设置要发送的数据
     data = {
-        'email': '809121932@qq.com',
-        'key': 'c5a247b4fd0ea2b2dbe3c2645a0abbc4',
+        'email': 'xxxxxxxxx@qq.com',
+        'key': 'c5a247b4fxxxxxxxxxxxa0abbc4',
         # 'email': 'ktg28510@yuoia.com',
         # 'key': 'f9b210e718952e5a295d7f8319431cba',
         'qbase64': qbase64, #'YXBwPSJURFhLLemAmui+vk9BIg==',
