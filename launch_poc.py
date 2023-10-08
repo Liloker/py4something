@@ -37,8 +37,5 @@ def poc_post(domain_or_ip):
     print('响应内容:', formatted_response)
 
 
-# if __name__ == '__main__':
-#
-#     ip=
-#     poc_post(ip)
+
 
